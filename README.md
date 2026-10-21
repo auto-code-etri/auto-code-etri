@@ -71,7 +71,9 @@
 
 공통 프레임워크는 오픈소스로 공개되며, 사내 특화 서비스는 분리되어 관리됩니다. 아래 저장소들은 본 프로젝트의 Submodule로 연결되어 있습니다.
 
-- 🏢 **[ETRI]** [`auto-code-etri/autocode`](https://github.com/auto-code-etri/autocode) : 산업 특화 코드 생성 LLM 및 데이터 파이프라인
+🏢 **[ETRI]** [`autocode`](https://github.com/auto-code-etri/autocode) : 산업 특화 코드 생성 공통 프레임워크
+🏢 **[ETRI]** [`autocode_dataset`](https://github.com/auto-code-etri/autocode_dataset) : 모델 학습을 위한 특화 데이터셋 
+
 * 🎓 **[서울대학교]** `snu-project-codegen` : 딥러닝 기반 프로젝트 수준 코드 생성 엔진
 * 🎓 **[한양대학교]** `hanyang-constraint-decoder` : 조건부 제약 기반 코드 완전성 검증 모듈
 * 🎓 **[KAIST]** `kaist-test-agent` : 신뢰성 검증용 시험 시나리오 자동 생성 에이전트
