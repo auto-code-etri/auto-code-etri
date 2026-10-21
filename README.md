@@ -1,4 +1,5 @@
-# 🏭 산업 제어 소프트웨어 특화 지능형 코드 자동 생성 연구
+# 🏭 자연어로 기술된 요구사항에서 전문 개발자 수준의 고품질 코드를 자동 생성하는 기술 개발
+산업 제어 소프트웨어 특화 지능형 코드 자동 생성 연구
 **Intelligent Code Generation for Industrial Control Software**
 
 [![주관기관](https://img.shields.io/badge/주관기관-ETRI-1d3557.svg)]()
